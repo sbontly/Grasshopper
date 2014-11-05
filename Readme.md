@@ -1,1 +1,1 @@
-﻿Hello there!
+﻿![](/img/fractal1.png)
